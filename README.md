@@ -1,0 +1,2 @@
+# HttpProxyTester
+tests http proxies
